@@ -42,8 +42,7 @@ Clicking the Please Buy logo resets the filters, displaying the full list of pro
 Contributions to the `Please Buy` project are welcome. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
 ## Live Demo
-Click here to view the live project deployed on GitHub Pages. ➡️  https://kaylee-k.github.io/please-buy/
-
+Click here to view the live project deployed on GitHub Pages. ➡️  https://ameliekihm.github.io/please-buy/
 
 
 
